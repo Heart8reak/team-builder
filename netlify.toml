@@ -1,4 +1,4 @@
-[build]
+[src]
 command = "yarn start"
 publish="path-to-react-app/src"
 base = "path-to-react-app"
