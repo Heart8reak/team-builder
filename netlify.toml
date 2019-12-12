@@ -1,6 +1,6 @@
 [build]
-command = "npm run build"
-publish="path-to-react-app/build"
+command = "yarn start"
+publish="path-to-react-app/src"
 base = "path-to-react-app"
 
 [[redirects]]
