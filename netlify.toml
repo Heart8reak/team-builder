@@ -1,9 +1,0 @@
-[src]
-command = "yarn start"
-publish="path-to-react-app/src"
-base = "path-to-react-app"
-
-[[redirects]]
-from = "/*"
-to = "/index.html"
-status = 200
