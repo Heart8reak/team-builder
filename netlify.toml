@@ -1,0 +1,4 @@
+[build]
+base = "team-builder"
+publish = "team-builder/src"
+command = "yarn start"
